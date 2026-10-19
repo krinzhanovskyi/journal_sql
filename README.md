@@ -5,7 +5,7 @@ A small CLI application for keeping a bicycle maintenance log. It will let you r
 The project is under development. Planned structure:
 
 ```text
-bike_service_log/
+sql_reincarnation/
 ├── database.py      # database connection and table creation
 ├── models.py        # data access functions
 ├── cli.py           # menu and user interaction
