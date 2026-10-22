@@ -1,4 +1,4 @@
-## SQL Journal of bike parts repairs
+# SQL Journal of bike parts repairs
 
 A small CLI application for keeping a bicycle maintenance log. It will let you record repairs and replaced parts, keeping your maintenance history close at hand.
 
